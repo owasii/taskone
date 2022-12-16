@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap');
+
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+[v-cloak] {
+	display: none;
+}
+
+h1 {
+	font-weight: 500;
+}
+
+.btn-one {
+	color: #fff;
+	background-color: #0d2b55;
+}
+
+.btn-one:hover,
+.btn-one:active {
+	color: #fff !important;
+	background-color: #ea3938 !important;
+}
